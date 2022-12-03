@@ -1,3 +1,3 @@
 # facul-repo
 
-Trabalho de lógica e algoritmos da faculdade.
+Repositório trabalhos da faculdade.
